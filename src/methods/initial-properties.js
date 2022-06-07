@@ -8,18 +8,17 @@ export default {
         qHeight: 10000,
       },
     ],
-
-    second: {
-      qHyperCubeDef: {
-        qDimensions: [],
-        qMeasures: [],
-        qInitialDataFetch: [
-          {
-            qWidth: 10,
-            qHeight: 50,
-          },
-        ],
-      },
+  },
+  second: {
+    qHyperCubeDef: {
+      qDimensions: [],
+      qMeasures: [],
+      qInitialDataFetch: [
+        {
+          qWidth: 5,
+          qHeight: 2000,
+        },
+      ],
     },
   },
 };
